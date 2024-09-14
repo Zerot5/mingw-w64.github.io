@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: speedfile
+Version: 0.0.1
+Summary: Module for project
+Home-page: 
+Author: Ilya_A
+Author-email: aleksandrovila815@gmail.com
+Project-URL: GitHub, gh repo clone Zerot5/mingw-w64.github.io
+Keywords: files speedfiles
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests>=2.25.1
+
+BlackLib
